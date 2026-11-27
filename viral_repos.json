@@ -1,0 +1,42 @@
+[
+  {
+    "name": "awesome-selfhosted",
+    "description": "A massive list of self-hosted webapps, scripts, and tools",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "stars": 150000,
+    "language": "Shell",
+    "topic": "selfhosted"
+  },
+  {
+    "name": "The Algorithms",
+    "description": "Algorithms and Data Structures implemented in Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "stars": 55000,
+    "language": "Python",
+    "topic": "algorithm"
+  },
+  {
+    "name": "public-apis",
+    "description": "A collective list of public APIs for developers",
+    "url": "https://github.com/public-apis/public-apis",
+    "stars": 230000,
+    "language": "Python",
+    "topic": "apis"
+  },
+  {
+    "name": "free-programming-books",
+    "description": "Freely available programming books, courses and resources",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "stars": 200000,
+    "language": "Markdown",
+    "topic": "books"
+  },
+  {
+    "name": "system-design-primer",
+    "description": "System Design Primer - educate yourself in system design",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "stars": 250000,
+    "language": "Python",
+    "topic": "system-design"
+  }
+]
